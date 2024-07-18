@@ -1,0 +1,194 @@
+/* Página Produto */
+
+.main-produto {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    padding: 30px;
+}
+
+.container-produto {
+    display: flex;
+    gap: 15px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    max-width: 1000px;
+}
+
+.container-produto:has(img.esgotado) {
+    position: relative;
+    & img {
+        filter: grayscale(100%);
+    }
+    &::after {
+        content: "Esgotado";
+        background-color: red;
+        color: white;
+        position: absolute;
+        padding: 5px;
+        rotate: -50deg;
+        left: -30px;
+        top: 10px;
+    }
+}
+
+.div-dados-produto {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.imagem-pagina-produto {
+    max-width: 300px;
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.nome-pagina-produto {
+    font-size: clamp(2em, 5vw, 4em);
+    font-weight: normal;
+}
+
+.descricao-pagina-produto {
+    font-size: 1.25em;
+}
+
+.valor-pagina-produto {
+    font-size: 1.6em;
+}
+
+.nota-produto-numero {
+    font-size: 1.4em;
+}
+
+.buttons-pagina-produto {
+    display: flex;
+    gap: 15px;
+}
+
+.buttons-pagina-produto button {
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+    transition: 0.3s;
+    &:hover {
+        scale: 1.2;
+    }
+}
+
+.container-preco {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 10px;
+}
+
+.section-comentarios {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    max-width: 800px;
+    width: 100%;
+}
+
+.div-comentar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    & img {
+        max-width: 65px;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+    & form {
+        display: flex;
+        gap: 10px;
+        flex: 1;
+    }
+    .selecionar-nota {
+        font-size: 1.8em;
+        text-align: center;
+        border: none;
+        border-bottom: 2px solid var(--verde);
+        outline: none;
+        color: rgba(0, 0, 0, 0.445);
+        &:focus-visible {
+            border-bottom: 4px solid var(--rosa-escuro);
+        }
+        & option[value] {
+            color: var(--rosa-escuro);
+        }
+        &:has(option[value]:checked) {
+            -webkit-text-stroke: 1px black;
+            color: var(--rosa-escuro);
+        }
+        & option:not([value]) {
+            color: rgba(0, 0, 0, 0.445);
+        }
+    }
+    & input {
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.514);
+        font-size: 1.3em;
+        padding: 5px 15px;
+        flex: 1;
+        &:focus {
+            outline: none;
+            border-bottom: 2px solid var(--rosa-escuro);
+        }
+    }
+    & button {
+        --cor-fundo: var(--verde);
+        border: 2px solid var(--cor-fundo);
+        font-size: 1.3em;
+        padding: 5px;
+        background-color: transparent;
+        cursor: pointer;
+        transition: 0.4s;
+        &:hover {
+            background-color: var(--cor-fundo);
+        }
+        &:disabled {
+            --cor-fundo: red;
+            color: red;
+            filter: none;
+            &:hover {
+                background-color: transparent;
+            }
+        }
+    }
+}
+
+.comentario {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.dados-comentario {
+    font-size: 1.5em;
+    display: flex;
+    align-items: flex-end;
+    gap: 15px;
+}
+
+.data-comentario {
+    color: color-mix(in srgb, currentColor, white 60%);
+    font-style: italic;
+    font-size: 0.75em;
+}
+
+.mensagem-comentario {
+    font-size: 1.3em;
+    text-align: justify;
+    padding: 10px;
+}
+
+.comentarios-vazio {
+    font-size: 1.25em;
+}

@@ -1,0 +1,680 @@
+[
+    {
+        "id": 1,
+        "name": "5hrs de call ate amadrugada.",
+        "description": "5hrs de call ate amadrugada.",
+        "categories": [
+            "services"
+        ],
+        "price": 14.99,
+        "promotionalPrice": null,
+        "rating": 3.8,
+        "stock": 28,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "4. Você é tão gata que se eu te matar de amor ainda sobram mais 6 vidas.",
+                "date": "2024-05-23",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "5hrsdecallateamadrugada.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Blusa tommy cachaça",
+        "description": "Blusa tommy cachaça",
+        "categories": [
+            "clothes",
+            "decoration",
+            "fantasy"
+        ],
+        "price": 8.99,
+        "promotionalPrice": 5.99,
+        "rating": 4.3,
+        "stock": 105,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Tecla comigo, vai",
+                "date": "2023-09-18",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "blusatommycachaca.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Felicidade de agua com gás e tomatinho assado de titicunha",
+        "description": "Felicidade de agua com gás e tomatinho assado de titicunha.",
+        "categories": [
+            "concept"
+        ],
+        "price": 159.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "*pushes u on bed* so you ignore me on your tl right? *gets on top of you* you think you will get going? *lick lips* are you that busy? *gets closer* interact with me or else my lips will interact with urs next",
+                "date": "2023-11-09",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "felicidadedeaguacomgasetomatinhoassadodetiticunha.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "habilidade de maquiagem",
+        "description": "habilidade de maquiagem",
+        "categories": [
+            "services",
+            "style",
+            "fashion"
+        ],
+        "price": 17.99,
+        "promotionalPrice": 6.99,
+        "rating": 5,
+        "stock": 13,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "gatinha ja comprei 3kg de areia pra tu vim cagar aqui em casa",
+                "date": "2024-04-13",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "habilidadedemaquiagem.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Horas de soninho com muisquinha",
+        "description": "Horas de soninho com muisquinha.",
+        "categories": [
+            "concept",
+            "classes"
+        ],
+        "price": 59.99,
+        "promotionalPrice": null,
+        "rating": 4.2,
+        "stock": 8,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "you're way too hot to have depression",
+                "date": "2023-12-15",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "horasdesoninhocommusiquinha.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Vício em lipbalm da nivea com esse resultado",
+        "description": "Vício em lipbalm da nivea com esse resultado.",
+        "categories": [
+            "concept",
+            "style",
+            "fashion"
+        ],
+        "price": 59.99,
+        "promotionalPrice": null,
+        "rating": 4.6,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "nao gosto de matemática mas de vc eu dou conta",
+                "date": "2023-04-23",
+                "reviewerName": "Ana"
+            },
+            {
+                "rating": 2,
+                "comment": "Não entendi nada.",
+                "date": "2022-06-01",
+                "reviewerName": "Gabriel"
+            }
+        ],
+        "image": "vicioemlipbalmdaniveacomesseresultado.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Muitas idas ao cinema",
+        "description": "Muitas idas ao cinema",
+        "categories": [
+            "famous",
+            "decoration",
+            "fantasy"
+        ],
+        "price": 299.99,
+        "promotionalPrice": 249.99,
+        "rating": 4.8,
+        "stock": 3,
+        "reviews": [
+            {
+                "rating": 4.5,
+                "comment": "lobo do domingo a noite",
+                "date": "2023-08-21",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "muitasidasaocinema.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Vício em lipbalm da nivea com esse resultado",
+        "description": "Vício em lipbalm da nivea com esse resultado.",
+        "categories": [
+            "decoration",
+            "style",
+            "fashion"
+        ],
+        "price": 59.99,
+        "promotionalPrice": null,
+        "rating": 4.6,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "nao gosto de matemática mas de vc eu dou conta",
+                "date": "2023-04-23",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "vicioemlipbalmdaniveacomesseresultado.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Muitas idas ao cinema",
+        "description": "Muitas idas ao cinema",
+        "categories": [
+            "decoration",
+            "style",
+            "fashion",
+            "concept"
+        ],
+        "price": 299.99,
+        "promotionalPrice": 249.99,
+        "rating": 4.8,
+        "stock": 3,
+        "reviews": [
+            {
+                "rating": 4.5,
+                "comment": "lobo do domingo a noite",
+                "date": "2023-08-21",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "muitasidasaocinema.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Felicidade de agua com gás e tomatinho assado de titicunha",
+        "description": "Felicidade de agua com gás e tomatinho assado de titicunha.",
+        "categories": [
+            "food",
+            "decoration",
+            "style",
+            "fashion",
+            "concept"
+        ],
+      "price": 159.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "*pushes u on bed* so you ignore me on your tl right? *gets on top of you* you think you will get going? *lick lips* are you that busy? *gets closer* interact with me or else my lips will interact with urs next",
+                "date": "2023-11-09",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "felicidadedeaguacomgasetomatinhoassadodetiticunha.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Nerd 🤓",
+        "description": "Seja para jogar RPG ou ajudar em um trabalho, um nerd (emoji) pode ser sempre um bom companheiro.",
+        "categories": [
+            "style",
+            "companion",
+            "fashion",
+            "decoration",
+            "classes"
+        ],
+        "price": 34.99,
+        "promotionalPrice": 24.99,
+        "rating": 4.2,
+        "stock": 37,
+        "reviews": [
+            {
+                "rating": 3,
+                "comment": "Não fez meus temas. Estou indignada",
+                "date": "2024-06-02",
+                "reviewerName": "Amanda"
+            },
+            {
+                "rating": 5,
+                "comment": "Gostei.",
+                "date": "2008-03-01",
+                "reviewerName": "Sandra"
+            }
+        ],
+        "image": "nerd.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Garantia de Compra",
+        "description": "Não é ruim quando você faz uma compra e tem medo de que ela não se concretize? Compre agora uma Garantia de Compra, com os melhores benefícios.",
+        "categories": [
+            "tools",
+            "receipt"
+        ],
+        "price": 24.99,
+        "promotionalPrice": null,
+        "rating": 4.7,
+        "stock": 239,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Eu comprei a compra e ela realmente foi feita. 10/10",
+                "date": "2021-10-06",
+                "reviewerName": "Rodolfo"
+            }
+        ],
+        "image": "garantia-de-compra.webp"
+    },
+    {
+        "id": 13,
+        "name": "Entupidor de Nariz",
+        "description": "Você é o único entre seus amigos que não tem rinite? Seus problemas acabaram!",
+        "categories": [
+            "medicine"
+        ],
+        "price": 54.99,
+        "promotionalPrice": 39.99,
+        "rating": 3.2,
+        "stock": 239,
+        "reviews": [
+            {
+                "rating": 2,
+                "comment": "Parece que meu nariz ficou pior do que quando comecei a usar. Péssimo!",
+                "date": "2023-06-27",
+                "reviewerName": "Isabelle"
+            }
+        ],
+        "image": "entupidor-de-nariz.webp"
+    },
+    {
+        "id": 14,
+        "name": "5hrs de call ate amadrugada.",
+        "description": "5hrs de call ate amadrugada.",
+        "categories": [
+            "famous",
+            "services"
+        ],
+        "price": 14.99,
+        "promotionalPrice": null,
+        "rating": 3.8,
+        "stock": 28,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "4. Você é tão gata que se eu te matar de amor ainda sobram mais 6 vidas.",
+                "date": "2024-05-23",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "5hrsdecallateamadrugada.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Bruno Emo™️",
+        "description": "O mais famoso (e lindo) de todos: Bruno Emo™️.",
+        "categories": [
+            "famous",
+            "idol",
+            "beauty",
+            "fashion",
+            "style",
+            "companion"
+        ],
+        "price": 999.99,
+        "promotionalPrice": null,
+        "rating": 4.8,
+        "stock": 1,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Adorei a maquiagem.",
+                "date": "2008-04-03",
+                "reviewerName": "Amanda"
+            },
+            {
+                "rating": 5,
+                "comment": "Achei muito bonita a franja",
+                "date": "2008-04-03",
+                "reviewerName": "Letícia"
+            }
+        ],
+        "image": "bruno-emo.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Felicidade de agua com gás e tomatinho assado de titicunha",
+        "description": "Felicidade de agua com gás e tomatinho assado de titicunha.",
+        "categories": [
+            "food",
+            "decoration",
+            "style",
+            "fashion",
+            "concept"
+        ],
+        "price": 159.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "*pushes u on bed* so you ignore me on your tl right? *gets on top of you* you think you will get going? *lick lips* are you that busy? *gets closer* interact with me or else my lips will interact with urs next",
+                "date": "2023-11-09",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "felicidadedeaguacomgasetomatinhoassadodetiticunha.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Pílula de Dilema",
+        "description": "Ao tomar essa pílula, você vive um dilema moral, como o Dilema do Trem.",
+        "categories": [
+            "medicine",
+            "concept"
+        ],
+        "price": 94.99,
+        "promotionalPrice": 69.99,
+        "rating": 4.2,
+        "stock": 71,
+        "reviews": [
+        ],
+        "image": "pilula-dilema.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "",
+        "description": "",
+        "categories": [
+            "medicine",
+            "concept",
+            "classes"
+        ],
+        "price": 34.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "",
+                "date": "",
+                "reviewerName": ""
+            }
+        ],
+        "image": ""
+    },
+    {
+        "id": 19,
+       "name": "5hrs de call ate amadrugada.",
+        "description": "5hrs de call ate amadrugada.",
+        "categories": [
+            "services"
+        ],
+        "price": 14.99,
+        "promotionalPrice": null,
+        "rating": 3.8,
+        "stock": 28,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Mão muito macia. Adorei!",
+                "date": "2024-05-23",
+                "reviewerName": "Bruno"
+            },
+            {
+                "rating": 4.5,
+                "comment": "Poderia colocar mais hidratante na mão antes de fazer o serviço. Tirando isso, muito bom!",
+                "date": "2024-04-28",
+                "reviewerName": "Felipe"
+            },
+            {
+                "rating": 2,
+                "comment": "Mão muito oleosa e áspera. Não curti",
+                "date": "2024-04-14",
+                "reviewerName": "Leonardo"
+            }
+        ],
+        "image": "5hrsdecallateamadrugada.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "Felicidade de agua com gás e tomatinho assado de titicunha",
+        "description": "Felicidade de agua com gás e tomatinho assado de titicunha.",
+        "categories": [
+            "food",
+            "decoration",
+            "style",
+            "fashion",
+            "concept"
+        ],
+        "price": 159.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "*pushes u on bed* so you ignore me on your tl right? *gets on top of you* you think you will get going? *lick lips* are you that busy? *gets closer* interact with me or else my lips will interact with urs next",
+                "date": "2023-11-09",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "felicidadedeaguacomgasetomatinhoassadodetiticunha.jpeg"
+    },
+    {
+        "id": 21,
+        "name": "Felicidade de agua com gás e tomatinho assado de titicunha",
+        "description": "Felicidade de agua com gás e tomatinho assado de titicunha.",
+        "categories": [
+            "food",
+            "decoration",
+            "style",
+            "fashion",
+            "concept"
+        ],
+        "price": 159.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "*pushes u on bed* so you ignore me on your tl right? *gets on top of you* you think you will get going? *lick lips* are you that busy? *gets closer* interact with me or else my lips will interact with urs next",
+                "date": "2023-11-09",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "felicidadedeaguacomgasetomatinhoassadodetiticunha.jpeg"
+    },
+    {
+        "id": 22,
+        "name": "Felicidade de agua com gás e tomatinho assado de titicunha",
+        "description": "Felicidade de agua com gás e tomatinho assado de titicunha.",
+        "categories": [
+            "food",
+            "decoration",
+            "style",
+            "fashion",
+            "concept"
+        ],
+        "price": 159.99,
+        "promotionalPrice": null,
+        "rating": 5,
+        "stock": 0,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "*pushes u on bed* so you ignore me on your tl right? *gets on top of you* you think you will get going? *lick lips* are you that busy? *gets closer* interact with me or else my lips will interact with urs next",
+                "date": "2023-11-09",
+                "reviewerName": "Ana"
+            }
+        ],
+        "image": "felicidadedeaguacomgasetomatinhoassadodetiticunha.jpeg"
+    },
+    {
+        "id": 23,
+        "name": "Dado de infinitos lados",
+        "description": "Um dado com todas as possibilidades do mundo. Ao jogá-lo, pode sair todas as obras de Shakespeare ou o número 8 (entre outras possibilidades).",
+        "categories": [
+            "tools",
+            "fantasy"
+        ],
+        "price": 399.99,
+        "promotionalPrice": null,
+        "rating": 3.2,
+        "stock": 3,
+        "reviews": [
+            {
+                "rating": 2,
+                "comment": "Acabei sem querer rompendo o conceito do espaço tempo. Não gostei.",
+                "date": "2032-03-01",
+                "reviewerName": "Bartolomeu"
+            }
+        ],
+        "image": "dados-de-infinitos-lados.jpg"
+    },
+    {
+        "id": 24,
+        "name": "",
+        "description": "",
+        "categories": [
+            "clothes",
+            "style",
+            "fantasy",
+            "fashion"
+        ],
+        "price": 149.99,
+        "promotionalPrice": 99.99,
+        "rating": 4.7,
+        "stock": 9,
+        "reviews": [
+            {
+                "rating": 2,
+                "comment": "",
+                "date": "",
+                "reviewerName": ""
+            },
+            {
+                "rating": 3,
+                "comment": "",
+                "date": "",
+                "reviewerName": ""
+            }
+        ],
+        "image": ""
+    },
+    {
+        "id": 25,
+        "name": "Divin(h)o",
+        "description": "Um cálice com um vinho divino do divo Dionísio. Ao beber dele, você fica muito poderoso, porém, claramente bêbado.",
+        "categories": [
+            "beauty",
+            "style",
+            "famous",
+            "fantasy",
+            "food"
+        ],
+        "price": 199.99,
+        "promotionalPrice": null,
+        "rating": 4.7,
+        "stock": 4,
+        "reviews": [
+            {
+                "rating": 3,
+                "comment": "Miuto boom o gosto ma s nao~ fique bebado.",
+                "date": "2023-09-06",
+                "reviewerName": "Junior"
+            }
+        ],
+        "image": "divinho.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Protetor Solar FPS 100",
+        "description": "Um protetor solar que protege 100% contra os raios ultra-violentos. Passá-lo no corpo o torna imune a queimaduras.",
+        "categories": [
+            "physics",
+            "medicine"
+        ],
+        "price": 199.99,
+        "promotionalPrice": 149.99,
+        "rating": 4.1,
+        "stock": 26,
+        "reviews": [
+            {
+                "rating": 2,
+                "comment": "Passei no meu computador, mas o FPS continuou em 30.",
+                "date": "2021-07-12",
+                "reviewerName": "Leonidas"
+            }
+        ],
+        "image": "protetor-solar.webp"
+    },
+    {
+        "id": 27,
+        "name": "Pedra Quântica",
+        "description": "Uma pedra comum, porém, ao deixar de olhar para ela, ela teletransporta.",
+        "categories": [
+            "physics",
+            "fantasy",
+            "decoration"
+        ],
+        "price": 99.99,
+        "promotionalPrice": null,
+        "rating": 3,
+        "stock": 26,
+        "reviews": [
+            {
+                "rating": 3,
+                "comment": "Muito bonita, porém ela sumiu.",
+                "date": "2024-04-23",
+                "reviewerName": "Pietro"
+            }
+        ],
+        "image": "pedra-quantica.jpeg"
+    },
+    {
+        "id": 28,
+        "name": "Tira Sombras",
+        "description": "Um produto inovador, que tira a sombras de lugares, deixando o ambiente claro.",
+        "categories": [
+            "physics",
+            "tools"
+        ],
+        "price": 49.99,
+        "promotionalPrice": null,
+        "rating": 4.6,
+        "stock": 28,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Gostei bastante. Ainda bem que isso existe, já que não tem nada parecido no mercado.",
+                "date": "2024-28-05",
+                "reviewerName": "Robson"
+            }
+        ],
+        "image": "tira-sombras.jpeg"
+    }
+]
